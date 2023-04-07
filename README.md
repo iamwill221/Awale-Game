@@ -25,7 +25,7 @@ A chaque fois qu’il y’ait une capture, le programme affiche la nouvelle conf
 Si la case précédente à la dernière graine contient 2 ou 3 graines, une autre capture est faite et ainsi de suite (rafale). Par contre, il est interdit de capturer toutes les graines d’un joueur en un coup.
 ![image](https://user-images.githubusercontent.com/103327500/230687583-0b9dbbf7-3ab5-41ef-99c9-7d7645526341.png)
 
-##Fin du jeu
+## Fin du jeu
 Lorsqu'un joueur n’a plus de graines dans son camp, le jeu se termine.
 Il affiche le nom des joueurs ainsi que le score
 ![image](https://user-images.githubusercontent.com/103327500/230687616-cc088c62-e25f-4c8f-bd63-7222f446385d.png)
