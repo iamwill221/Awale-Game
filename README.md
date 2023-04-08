@@ -3,8 +3,8 @@ L’Awalé, appelé aussi Wouré (au Senegal) ou Awélé, est un jeu traditionne
 Ce jeu se fait par deux joueurs. L’objectif est de s’emparer d’un maximum de graines. Le joueur qui a le plus de graines à la fin de la partie l’emporte. Le plateau est placé horizontalement entre les deux joueurs. Chaque joueur place 4 graines dans chacun des 6 trous devant lui.
 
 
-## Présentation
-It is a command-line based game playable by 2
+## Presentation
+It is a command-line based game playable by 2 players
 
 ## Démarrage
 Au démarrage le programme demande à chaque joueur de saisir son nom. Ici la partie se jouera entre William et Moussa
